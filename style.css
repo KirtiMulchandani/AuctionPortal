@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+footer {
+  margin-top: 5%;
+  text-align: center;
+  background-color: #2b3035;
+  color: #fff;
+  padding: 20px;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+main {
+  overflow-y: auto;
+}
+
+.spacer{
+  margin-bottom: 110px; 
+  visibility: hidden; 
+}
+
+
+
+  
